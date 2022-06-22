@@ -1,0 +1,54 @@
+{
+  "brandName": "Blogr",
+  "logo": "logo.svg",
+  "hamIcon": "Icon-hamburger.svg",
+  "hamIconClose": "Icon-close.svg",
+  "nav": {
+    "left": {
+      "LinkNames": [
+        {
+          "title": "Product",
+          "names": [
+            "Overview",
+            "Pricing",
+            "Marketplace",
+            "Features",
+            "Integrations"
+          ]
+        },
+        {
+          "title": "Company",
+          "names": ["About", "Team", "Blog", "Careers"]
+        },
+        {
+          "title": "Connect",
+          "names": ["Contact", "newsletter", "LinkedIn"]
+        }
+      ],
+      "LinkUrls": [
+        {
+          "title": "Product",
+          "links": ["", "", "", "", ""]
+        },
+        {
+          "title": "Company",
+          "links": ["", "", "", ""]
+        },
+        {
+          "title": "Connect",
+          "links": ["", "", ""]
+        }
+      ]
+    },
+    "right": {
+      "one": {
+        "title": "Login",
+        "url": ""
+      },
+      "two": {
+        "title": "Sign Up",
+        "url": ""
+      }
+    }
+  }
+}
